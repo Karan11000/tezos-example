@@ -1,0 +1,36 @@
+ body{
+    font-family: cursive;
+    /* text-align: center; */
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+
+.container1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+
+/* utility classes */
+.mg{
+    margin: 2rem;
+}
+
+
+.full {
+    width: 100%;
+    text-align: center;
+}
