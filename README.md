@@ -1,3 +1,6 @@
+# Note :
+This project provides you the knowledge of how to integrate your frontend and smart contract with the Tezos blockchain
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
