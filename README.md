@@ -1,5 +1,5 @@
 # Note :
-This project provides you the knowledge of how to integrate your frontend and smart contract with the Tezos blockchain
+This project provides you the knowledge of how to integrate your frontend and smart contract with the Tezos blockchain using taquito
 
 # Getting Started with Create React App
 
